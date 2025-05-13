@@ -1,2 +1,5 @@
-# Cybersecurity_Portfolio
-A professional portfolio showcasing hands-on labs, technical scripts, and coursework from the Practical Cybersecurity course and other graduate-level studies at Rutgers University's MBS program.
+# 🧰 Cybersecurity Portfolio
+
+This repository contains my cybersecurity lab work and technical projects from the Master of Business and Science (MBS) program at Rutgers University.
+
+Labs are organized by course and topic, with detailed documentation and source files in each subdirectory.
